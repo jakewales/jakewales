@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[Click this! I recorded a lot of technical articles on it.](http://60.176.35.103:16000)
+[Click this! I recorded a lot of technical articles on it.](http://60.176.33.158:16000)
