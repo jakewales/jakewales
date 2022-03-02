@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 =========================
-[Click this! I recorded a lot of technical articles on it.](http://122.233.28.118:16000)
+[Click this! I recorded a lot of technical articles on it.](http://218.72.5.217:16000)
